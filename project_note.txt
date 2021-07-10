@@ -1,0 +1,8 @@
+Dota leaderboards
+- [x] Create API request to dota 2 leaderboards API
+- [x] Add filter param by region
+- [ ] [UI] Show top player by certain region 
+- [ ] [UI] Create filter option untuk show top player by region
+- [ ] [UI] Beautify UI using bootstrap
+- [ ] Testing all feature works
+- [ ] Upload app to web
